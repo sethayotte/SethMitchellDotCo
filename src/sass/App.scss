@@ -1,0 +1,14 @@
+//Main Styles - Imported Partials
+
+//1-Basics
+@import "1-Basics/fonts";
+@import "1-Basics/colors";
+@import "1-Basics/page";
+
+.dropdown {
+  display: flex;
+}
+
+.navBar {
+  border-radius: 0px 0px 15px 15px;
+}

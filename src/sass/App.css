@@ -1,0 +1,15 @@
+h1 {
+  font-family: "Inter";
+  font-weight: 800;
+}
+
+.dropdown {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.navBar {
+  border-radius: 0px 0px 15px 15px;
+}
+/*# sourceMappingURL=App.css.map */
