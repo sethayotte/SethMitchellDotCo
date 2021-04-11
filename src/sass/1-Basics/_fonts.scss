@@ -2,3 +2,14 @@ h1 {
   font-family: "Inter";
   font-weight: 800;
 }
+
+.navLink {
+  font-family: "Inter";
+  font-weight: 500;
+  color: black;
+  font-size: 11pt;
+}
+
+.navLink:hover {
+  color: color(smBlue);
+}

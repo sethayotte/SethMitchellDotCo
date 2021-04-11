@@ -3,6 +3,26 @@ h1 {
   font-weight: 800;
 }
 
+.navLink {
+  font-family: "Inter";
+  font-weight: 500;
+  color: black;
+  font-size: 11pt;
+}
+
+.navLink:hover {
+  color: color(smBlue);
+}
+
+@media only screen and (min-width: 768px) {
+  .navBar {
+    height: 50px;
+  }
+  #blogLink {
+    margin-right: -18px;
+  }
+}
+
 .dropdown {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -11,5 +31,57 @@ h1 {
 
 .navBar {
   border-radius: 0px 0px 15px 15px;
+  background-color: #f3f3f3;
+}
+
+.navBrand {
+  font-family: "Inter";
+  font-weight: 700;
+  color: black;
+  font-size: 14pt;
+  padding: 0;
+  margin: 0;
+}
+
+.navBrand .navBrandDot {
+  color: #1b94ff;
+}
+
+.toggleContainer {
+  background-color: #1b94ff;
+  height: 18px;
+  width: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+.toggleIcon {
+  font-size: 22px;
+  color: white;
+  margin-top: -4px;
+}
+
+.footerContainer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #f3f3f3;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.footerLeftColumn {
+  line-height: 0;
+  margin: 40px;
+  margin-bottom: 30px;
+}
+
+.footerLeftColumn p {
+  color: #1b94ff;
+}
+
+.footerLeftColumn #copyright {
+  color: grey;
+  font-size: 10pt;
 }
 /*# sourceMappingURL=App.css.map */
