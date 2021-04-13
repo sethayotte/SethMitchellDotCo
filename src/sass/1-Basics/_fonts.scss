@@ -1,7 +1,25 @@
 h1 {
   font-family: "Inter";
   font-weight: 800;
-  text-align: center;
+  color: black;
+}
+
+#toolH1 {
+  font-size: 48pt;
+  line-height: 48pt;
+}
+
+h3 {
+  font-family: "Inter";
+  font-weight: 600;
+}
+
+a {
+  color: color(smBlue);
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 .navLink {

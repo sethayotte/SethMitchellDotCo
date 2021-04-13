@@ -22,6 +22,7 @@ import Contact from "./components/Contact";
 import Blog from "./components/Blog";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
+import CompoundInterestCalculator from "./components/Calc-Resource-Components/CompoundInterestCalculator";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "shards-ui/dist/css/shards.min.css";
@@ -118,7 +119,7 @@ export default class App extends React.Component {
             <Route path="/blog">
               <Blog />
             </Route>
-            <Route path="/resources">
+            <Route exact path="/resources">
               <Resources />
             </Route>
             <Route path="/contact">
@@ -126,6 +127,9 @@ export default class App extends React.Component {
             </Route>
             <Route path="/about">
               <About />
+            </Route>
+            <Route path="/resources/compound-interest-calculator">
+              <CompoundInterestCalculator />
             </Route>
             <Route path="/">
               <Home />

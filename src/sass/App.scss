@@ -5,13 +5,16 @@
 @import "1-Basics/colors";
 @import "1-Basics/page";
 
+//2-Pages
+@import "2-Pages/compoundInterestCalculator";
+
 @media only screen and (min-width: 768px) {
   .navBar {
     height: 50px;
   }
 
   #blogLink {
-    margin-right: -18px;
+    margin-right: -20px;
   }
 }
 
@@ -75,4 +78,8 @@
     color: grey;
     font-size: 10pt;
   }
+}
+
+.recentPostsContainer {
+  margin: 50px;
 }
