@@ -93,7 +93,7 @@ export default class App extends React.Component {
                     <DropdownItem>Budgeting</DropdownItem>
                     <DropdownItem>Personal Finance</DropdownItem>
                     <DropdownItem>Credit Cards</DropdownItem>
-                    <DropdownItem>Reading</DropdownItem>
+                    <DropdownItem>Books</DropdownItem>
                   </DropdownMenu>
                 </Dropdown>
                 <NavItem>

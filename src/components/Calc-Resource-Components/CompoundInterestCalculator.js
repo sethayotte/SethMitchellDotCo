@@ -31,10 +31,10 @@ const CompoundInterestCalculator = () => {
             />
           </FormGroup>
           <FormGroup>
-            <div>
+            <div id="amountAddedLabel">
               <label htmlFor="#amountAdded">Amount Added</label>
-              <div>
-                <p>year</p>
+              <div id="toggleBlock">
+                <p id="yearLabel">year</p>
                 <FormCheckbox
                   toggle
                   small

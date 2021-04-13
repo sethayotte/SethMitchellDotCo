@@ -11,7 +11,8 @@ h1 {
 
 h3 {
   font-family: "Inter";
-  font-weight: 600;
+  font-weight: 700;
+  color: black;
 }
 
 a {
@@ -31,6 +32,94 @@ a:hover {
 
 .navLink:hover {
   color: color(smBlue);
+}
+
+#landingHeader {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  max-width: 1400px;
+  margin: auto;
+  padding-top: 100px;
+}
+
+#landingHeader #titleBlock {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-right: 40px;
+}
+
+#landingHeader #titleBlock #landingH1 {
+  font-size: 48pt;
+  line-height: 48pt;
+  color: #1b94ff;
+}
+
+#landingHeader #titleBlock p {
+  font-weight: 700;
+  font-size: 22pt;
+  line-height: 22pt;
+  color: black;
+}
+
+#landingHeader #landingTopicNavigation {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+}
+
+#landingHeader #landingTopicNavigation h3 {
+  font-family: "Inter";
+  font-weight: 700;
+  color: black;
+  font-size: 18pt;
+}
+
+#landingHeader #landingTopicNavigation #tagCloud {
+  text-align: center;
+}
+
+#landingHeader #landingTopicNavigation #tagCloud .tag {
+  font-size: 14pt;
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #1b94ff;
+}
+
+#recentPostsContainer {
+  border-radius: 24px;
+  background: #ffffff;
+  -webkit-box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+          box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: auto;
+  margin-top: 100px;
+  padding: 50px;
+  max-width: 1000px;
+}
+
+#resourcesPage #resourcesTitle {
+  text-align: center;
 }
 
 #compInterestCalcPage {
@@ -79,6 +168,31 @@ a:hover {
   font-size: 16pt;
 }
 
+#calculatorBody #amountAddedLabel {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: -20px;
+}
+
+#calculatorBody #amountAddedLabel #toggleBlock {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#calculatorBody #amountAddedLabel #toggleBlock p {
+  font-family: "Inter";
+  font-weight: 500;
+}
+
+#calculatorBody #amountAddedLabel #toggleBlock #yearLabel {
+  margin-right: 7px;
+}
+
 #calculatorBody #calcColumnSplit {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -98,6 +212,7 @@ a:hover {
   font-weight: 700;
   font-size: 12pt;
   color: white;
+  background-color: #1b94ff;
   margin-top: 10px;
   margin-bottom: 20px;
   height: 50px;

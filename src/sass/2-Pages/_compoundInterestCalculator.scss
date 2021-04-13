@@ -39,6 +39,25 @@
     font-size: 16pt;
   }
 
+  #amountAddedLabel {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -20px;
+
+    #toggleBlock {
+      display: flex;
+
+      p {
+        font-family: "Inter";
+        font-weight: 500;
+      }
+
+      #yearLabel {
+        margin-right: 7px;
+      }
+    }
+  }
+
   #calcColumnSplit {
     display: flex;
 
@@ -55,6 +74,7 @@
     font-weight: 700;
     font-size: 12pt;
     color: white;
+    background-color: color(smBlue);
     margin-top: 10px;
     margin-bottom: 20px;
     height: 50px;

@@ -1,0 +1,61 @@
+#landingHeader {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 1400px;
+  margin: auto;
+  padding-top: 100px;
+  #titleBlock {
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+
+    #landingH1 {
+      font-size: 48pt;
+      line-height: 48pt;
+      color: color(smBlue);
+    }
+
+    p {
+      font-weight: 700;
+      font-size: 22pt;
+      line-height: 22pt;
+      color: black;
+    }
+  }
+
+  #landingTopicNavigation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+
+    h3 {
+      font-family: "Inter";
+      font-weight: 700;
+      color: black;
+      font-size: 18pt;
+    }
+
+    #tagCloud {
+      text-align: center;
+
+      .tag {
+        font-size: 14pt;
+        margin: 5px;
+        padding: 10px 20px;
+        background-color: color(smBlue);
+      }
+    }
+  }
+}
+
+#recentPostsContainer {
+  border-radius: 24px;
+  background: #ffffff;
+  box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+  display: flex;
+  margin: auto;
+  margin-top: 100px;
+  padding: 50px;
+  max-width: 1000px;
+}
