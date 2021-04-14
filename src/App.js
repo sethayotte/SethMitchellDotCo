@@ -23,6 +23,11 @@ import Blog from "./components/Blog";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
 import CompoundInterestCalculator from "./components/Calc-Resource-Components/CompoundInterestCalculator";
+import PersonalFinance from "./components/Blog-Topics/PersonalFinance";
+import Budgeting from "./components/Blog-Topics/Budgeting";
+import Investing from "./components/Blog-Topics/Investing";
+import CreditCards from "./components/Blog-Topics/CreditCards";
+import Books from "./components/Blog-Topics/Books";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "shards-ui/dist/css/shards.min.css";
@@ -89,11 +94,21 @@ export default class App extends React.Component {
                   </NavLink>
                   <DropdownToggle nav caret />
                   <DropdownMenu>
-                    <DropdownItem>Investing</DropdownItem>
-                    <DropdownItem>Budgeting</DropdownItem>
-                    <DropdownItem>Personal Finance</DropdownItem>
-                    <DropdownItem>Credit Cards</DropdownItem>
-                    <DropdownItem>Books</DropdownItem>
+                    <a href="/investing">
+                      <DropdownItem>Investing</DropdownItem>
+                    </a>
+                    <a href="/budgeting">
+                      <DropdownItem>Budgeting</DropdownItem>
+                    </a>
+                    <a href="/personal-finance">
+                      <DropdownItem>Personal Finance</DropdownItem>
+                    </a>
+                    <a href="/credit-cards">
+                      <DropdownItem>Credit Cards</DropdownItem>
+                    </a>
+                    <a href="/books">
+                      <DropdownItem>Books</DropdownItem>
+                    </a>
                   </DropdownMenu>
                 </Dropdown>
                 <NavItem>
@@ -130,6 +145,21 @@ export default class App extends React.Component {
             </Route>
             <Route path="/resources/compound-interest-calculator">
               <CompoundInterestCalculator />
+            </Route>
+            <Route path="/investing">
+              <Investing />
+            </Route>
+            <Route path="/personal-finance">
+              <PersonalFinance />
+            </Route>
+            <Route path="/budgeting">
+              <Budgeting />
+            </Route>
+            <Route path="/credit-cards">
+              <CreditCards />
+            </Route>
+            <Route path="/books">
+              <Books />
             </Route>
             <Route path="/">
               <Home />

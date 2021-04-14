@@ -20,21 +20,21 @@ const Home = () => {
         <div id="landingTopicNavigation">
           <h3>Explore Posts by Topic</h3>
           <div id="tagCloud">
-            <Badge href="/resources" className="tag" pill>
+            <Badge href="/personal-finance" className="tag" pill>
               Personal Finance
             </Badge>{" "}
             <br />
-            <Badge href="/resources" className="tag" pill>
+            <Badge href="/budgeting" className="tag" pill>
               Budgeting
             </Badge>
-            <Badge href="/resources" className="tag" pill>
+            <Badge href="/investing" className="tag" pill>
               Investing
             </Badge>{" "}
             <br />
-            <Badge href="/resources" className="tag" pill>
+            <Badge href="/credit-cards" className="tag" pill>
               Credit Cards
             </Badge>{" "}
-            <Badge href="/resources" className="tag" pill>
+            <Badge href="/books" className="tag" pill>
               Books
             </Badge>
           </div>
