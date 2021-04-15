@@ -1,0 +1,34 @@
+#allPostsPage {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin: auto;
+  max-width: 750px;
+
+  #allPostsHeader {
+    margin-bottom: 25px;
+  }
+  #postFilterContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #f3f3f3;
+    padding: 25px;
+    max-width: 750px;
+    border-radius: 15px;
+
+    p {
+      margin: auto 10px;
+      font-family: "Inter";
+      font-weight: 600;
+      color: black;
+    }
+
+    .filter {
+      margin: 0px 10px;
+      padding: 5px 15px;
+      background-color: color(smBlue);
+    }
+  }
+}

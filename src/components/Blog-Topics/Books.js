@@ -3,7 +3,8 @@ import React from "react";
 const Books = () => {
   return (
     <div>
-      <h1>Books</h1>
+      <h4 className="topicLabel">TOPIC</h4>
+      <h1 className="topicHeader">Books</h1>
     </div>
   );
 };

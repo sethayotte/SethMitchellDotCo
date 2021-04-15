@@ -9,6 +9,7 @@ import {
   CardBody,
   CardFooter,
   Button,
+  Badge,
 } from "shards-react";
 
 const Blog = () => {
@@ -31,19 +32,27 @@ const Blog = () => {
   }, []);
 
   return (
-    <div>
-      <h1>Blog</h1>
-
-      <div className="recentPostsContainer">
-        <Card style={{ maxWidth: "300px" }}>
-          <CardImg top src="https://place-hold.it/300x200" />
-          <CardBody>
-            {/* <CardTitle>{posts[0].postTitle}</CardTitle>
-            <p>{posts[0].summary}</p> */}
-            <Button>Read more &rarr;</Button>
-          </CardBody>
-        </Card>
+    <div id="allPostsPage">
+      <h1 id="allPostsHeader">All Posts</h1>
+      <div id="postFilterContainer">
+        <p>Filters</p>
+        <Badge href="/personal-finance" className="filter" pill>
+          Personal Finance
+        </Badge>
+        <Badge href="/budgeting" className="filter" pill>
+          Budgeting
+        </Badge>
+        <Badge href="/investing" className="filter" pill>
+          Investing
+        </Badge>
+        <Badge href="/credit-cards" className="filter" pill>
+          Credit Cards
+        </Badge>
+        <Badge href="/books" className="filter" pill>
+          Books
+        </Badge>
       </div>
+      <div className="recentPostsContainer"></div>
     </div>
   );
 };

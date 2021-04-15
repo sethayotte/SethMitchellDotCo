@@ -10,6 +10,16 @@ const Resources = () => {
           Compound Interest Calculator
         </a>
       </h3>
+
+      <h3>
+        <a href="/resources/compound-interest-calculator">
+          Is a DRIP Investment Worth It?
+        </a>
+      </h3>
+
+      <h3>
+        <a href="/resources/compound-interest-calculator">Can I Afford It?</a>
+      </h3>
     </div>
   );
 };

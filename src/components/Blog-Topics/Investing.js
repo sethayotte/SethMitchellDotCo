@@ -3,7 +3,8 @@ import React from "react";
 const Investing = () => {
   return (
     <div>
-      <h1>Investing</h1>
+      <h4 className="topicLabel">TOPIC</h4>
+      <h1 className="topicHeader">Investing</h1>
     </div>
   );
 };

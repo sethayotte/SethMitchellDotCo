@@ -3,7 +3,8 @@ import React from "react";
 const Budgeting = () => {
   return (
     <div>
-      <h1>Budgeting</h1>
+      <h4 className="topicLabel">TOPIC</h4>
+      <h1 className="topicHeader">Budgeting</h1>
     </div>
   );
 };

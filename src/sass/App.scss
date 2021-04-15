@@ -7,8 +7,12 @@
 
 //2-Pages
 @import "2-Pages/home";
+@import "2-Pages/blog";
 @import "2-Pages/resources";
 @import "2-Pages/compoundInterestCalculator";
+
+//3-BlogTopics
+@import "3-BlogTopics/creditCards";
 
 @media only screen and (min-width: 768px) {
   .navBar {

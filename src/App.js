@@ -112,7 +112,13 @@ export default class App extends React.Component {
                   </DropdownMenu>
                 </Dropdown>
                 <NavItem>
-                  <NavLink href="/resources" className="navLink">
+                  <NavLink
+                    href="/resources"
+                    className="navLink"
+                    activeStyle={{
+                      color: "#1B94FF",
+                    }}
+                  >
                     Resources
                   </NavLink>
                 </NavItem>
