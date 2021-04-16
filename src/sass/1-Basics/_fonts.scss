@@ -1,6 +1,19 @@
+// Inter Import
+@font-face {
+  font-family: "InterBold";
+  src: local("InterBold"), url("../../fonts/Inter-Bold.otf") format("opentype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "InterExtraBold";
+  src: local("InterExtraBold"),
+    url("../../fonts/Inter-ExtraBold.otf") format("opentype");
+  font-weight: normal;
+}
+
 h1 {
-  font-family: Inter;
-  font-weight: 800;
+  font-family: "InterExtraBold", Helvetica, sans-serif;
   color: black;
 }
 
