@@ -16,6 +16,8 @@ import {
 
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
+import Splash from "./components/Splash";
+
 import About from "./components/About";
 import Resources from "./components/Resources";
 import Contact from "./components/Contact";
@@ -69,7 +71,8 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        <Router>
+        <Splash />
+        {/* <Router>
           <Navbar expand="md" className="navBar">
             <NavbarBrand href="/" className="navBrand">
               sethmitchell<span className="navBrandDot">dot</span>co
@@ -172,7 +175,7 @@ export default class App extends React.Component {
             </Route>
           </Switch>
         </Router>
-        <Footer />
+        <Footer /> */}
       </div>
     );
   }

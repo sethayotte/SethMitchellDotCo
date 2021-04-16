@@ -1,0 +1,33 @@
+#fauxMenu {
+  background-color: #f3f3f3;
+  border-radius: 0px 0px 15px 15px;
+  height: 50px;
+  display: flex;
+  padding-bottom: 5px;
+
+  h3 {
+    font-size: 16pt;
+    margin: auto 25px;
+  }
+  #splashDotSpan {
+    color: color(smBlue);
+  }
+}
+
+#splashContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+
+  #smSplashLogo {
+    height: 100px;
+    margin-bottom: 35px;
+  }
+
+  #splashTitle {
+    font-family: "InterSemiBold";
+    font-size: 32pt;
+  }
+}

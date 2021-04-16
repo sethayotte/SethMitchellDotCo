@@ -139,6 +139,52 @@ a:hover {
   color: color(smBlue);
 }
 
+#fauxMenu {
+  background-color: #f3f3f3;
+  border-radius: 0px 0px 15px 15px;
+  height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-bottom: 5px;
+}
+
+#fauxMenu h3 {
+  font-size: 16pt;
+  margin: auto 25px;
+}
+
+#fauxMenu #splashDotSpan {
+  color: #1b94ff;
+}
+
+#splashContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 85vh;
+}
+
+#splashContainer #smSplashLogo {
+  height: 100px;
+  margin-bottom: 35px;
+}
+
+#splashContainer #splashTitle {
+  font-family: "InterSemiBold";
+  font-size: 32pt;
+}
+
 #landingHeader {
   display: -webkit-box;
   display: -ms-flexbox;
