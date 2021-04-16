@@ -16,7 +16,7 @@
     }
 
     p {
-      font-weight: 700;
+      font-family: "InterBold";
       font-size: 22pt;
       line-height: 22pt;
       color: black;
@@ -31,8 +31,7 @@
     margin-bottom: 75px;
 
     h3 {
-      font-family: "Inter";
-      font-weight: 700;
+      font-family: "InterExtraBold";
       color: black;
       font-size: 18pt;
     }
@@ -59,19 +58,18 @@
   margin-top: 35px;
 
   .cardArticleTitle {
-    font-family: "Inter";
-    font-weight: 700;
+    font-family: "InterBold";
     font-size: 16pt;
   }
 
   .cardArticleExcerpt {
-    font-family: "Inter";
+    font-family: "InterRegular";
     font-weight: 400;
     margin-bottom: 10px;
   }
 
   .cardReadMore {
-    font-family: "Inter";
+    font-family: "InterSemiBold";
     font-weight: 500;
     color: color(smBlue);
     margin-bottom: 10px;

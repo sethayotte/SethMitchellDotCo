@@ -13,8 +13,7 @@
 
 #calcDescription {
   margin-left: 5px;
-  font-family: "Inter";
-  font-weight: 400;
+  font-family: "InterRegular";
   font-size: 14pt;
   line-height: 18pt;
 }
@@ -26,8 +25,7 @@
   border-radius: 25px;
 
   label {
-    font-family: "Inter";
-    font-weight: 700;
+    font-family: "InterBold";
     color: black;
   }
 
@@ -48,8 +46,7 @@
       display: flex;
 
       p {
-        font-family: "Inter";
-        font-weight: 500;
+        font-family: "InterSemiBold";
       }
 
       #yearLabel {
@@ -70,8 +67,7 @@
   }
 
   #calcButton {
-    font-family: "Inter";
-    font-weight: 700;
+    font-family: "InterBold";
     font-size: 12pt;
     color: white;
     background-color: color(smBlue);

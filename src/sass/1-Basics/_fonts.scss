@@ -4,11 +4,105 @@
   src: local("InterBold"), url("../../fonts/Inter-Bold.otf") format("opentype");
   font-weight: normal;
 }
-
 @font-face {
   font-family: "InterExtraBold";
   src: local("InterExtraBold"),
     url("../../fonts/Inter-ExtraBold.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterBlack";
+  src: local("InterBlack"),
+    url("../../fonts/Inter-Black.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterBlackItalic";
+  src: local("InterBlackItalic"),
+    url("../../fonts/Inter-BlackItalic.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterBoldItalic";
+  src: local("InterBoldItalic"),
+    url("../../fonts/Inter-BoldItalic.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterExtraBoldItalic";
+  src: local("InterExtraBoldItalic"),
+    url("../../fonts/Inter-ExtraBoldItalic.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterExtraLight";
+  src: local("InterExtraLight"),
+    url("../../fonts/Inter-ExtraLight.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterExtraLightItalic";
+  src: local("InterExtraLightItalic"),
+    url("../../fonts/Inter-ExtraLightItalic.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterItalic";
+  src: local("InterItalic"),
+    url("../../fonts/Inter-Italic.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterLight";
+  src: local("InterLight"),
+    url("../../fonts/Inter-Light.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterLightItalic";
+  src: local("InterLightItalic"),
+    url("../../fonts/Inter-LightItalic.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterMedium";
+  src: local("InterMedium"),
+    url("../../fonts/Inter-Medium.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterMediumItalic";
+  src: local("InterMediumItalic"),
+    url("../../fonts/Inter-MediumItalic.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterRegular";
+  src: local("InterRegular"),
+    url("../../fonts/Inter-Regular.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterSemiBold";
+  src: local("InterSemiBold"),
+    url("../../fonts/Inter-SemiBold.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterSemiBoldItalic";
+  src: local("InterSemiBoldItalic"),
+    url("../../fonts/Inter-SemiBoldItalic.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterThin";
+  src: local("InterThin"), url("../../fonts/Inter-Thin.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterThinItalic";
+  src: local("InterThinItalic"),
+    url("../../fonts/Inter-ThinItalic.otf") format("opentype");
   font-weight: normal;
 }
 
@@ -23,8 +117,7 @@ h1 {
 }
 
 h3 {
-  font-family: "Inter";
-  font-weight: 700;
+  font-family: "InterBold";
   color: black;
 }
 
@@ -37,8 +130,7 @@ a:hover {
 }
 
 .navLink {
-  font-family: "Inter";
-  font-weight: 500;
+  font-family: "InterSemiBold";
   color: black;
   font-size: 11pt;
 }
