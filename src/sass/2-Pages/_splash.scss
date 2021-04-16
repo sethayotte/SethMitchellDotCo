@@ -16,6 +16,7 @@
 
 #splashContainer {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -23,11 +24,13 @@
 
   #smSplashLogo {
     height: 100px;
-    margin-bottom: 35px;
+    margin-bottom: 10px;
   }
 
   #splashTitle {
     font-family: "InterSemiBold";
     font-size: 32pt;
+    margin: 25px;
+    text-align: center;
   }
 }
