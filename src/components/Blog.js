@@ -1,15 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
-import {
-  Card,
-  CardHeader,
-  CardTitle,
-  CardImg,
-  CardBody,
-  CardFooter,
-  Button,
-  Badge,
-} from "shards-react";
+import { Badge } from "shards-react";
 
 const Blog = () => {
   return (

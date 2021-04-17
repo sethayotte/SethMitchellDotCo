@@ -11,7 +11,7 @@ const Splash = () => {
         </h3>
       </div>
       <div id="splashContainer">
-        <img src={SMLogo} id="smSplashLogo" />
+        <img src={SMLogo} id="smSplashLogo" alt="SM Logo Blob" />
         <h1 id="splashTitle">Check Back Soon For Updates</h1>
       </div>
     </div>
