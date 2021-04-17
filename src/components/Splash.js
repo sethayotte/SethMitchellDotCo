@@ -12,7 +12,7 @@ const Splash = () => {
       </div>
       <div id="splashContainer">
         <img src={SMLogo} id="smSplashLogo" />
-        <h1 id="splashTitle">Check Back For Updates!</h1>
+        <h1 id="splashTitle">Check Back Soon For Updates</h1>
       </div>
     </div>
   );
