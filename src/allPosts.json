@@ -47,6 +47,24 @@
         "size": 1288,
         "formattedSize": "1.3 KB"
       }
+    },
+    {
+      "id": "src__going-to-src",
+      "contents": "<p>Body placeholder</p>\n",
+      "title": "Going to src?",
+      "author": "Seth Mitchell",
+      "date": "2021-04-18T17:58:26.522Z",
+      "category": "First Post",
+      "summary": "Summary placeholder",
+      "thumbnail": "/images/1280px-discover_card_logo.svg.png",
+      "excerpt": "<p>Body placeholder</p>",
+      "meta": {
+        "relativePath": "src/going-to-src.html",
+        "createdAt": "2021-04-18T17:59:27.631Z",
+        "lastModified": "2021-04-18T17:59:27.631Z",
+        "size": 201,
+        "formattedSize": "201 Bytes"
+      }
     }
   ]
 }
