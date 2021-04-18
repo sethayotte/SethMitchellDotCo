@@ -2,7 +2,7 @@
   "app": {
     "name": "markdown-json",
     "cwd": "./",
-    "src": "posts/",
+    "src": "posts",
     "filePattern": "**/*.md",
     "ignore": "*(icon|input)*",
     "dist": "src/allPosts.json",
@@ -12,6 +12,24 @@
     "version": "1.5.1"
   },
   "data": [
+    {
+      "id": "src__another-test",
+      "contents": "<p>Test body text</p>\n",
+      "title": "Another Test",
+      "author": "Seth M",
+      "date": "2021-04-18T01:38:29.356Z",
+      "category": "Budgeting",
+      "summary": "Test summary",
+      "thumbnail": "/images/1280px-discover_card_logo.svg.png",
+      "excerpt": "<p>Test body text</p>",
+      "meta": {
+        "relativePath": "src/another-test.html",
+        "createdAt": "2021-04-18T17:50:22.527Z",
+        "lastModified": "2021-04-18T17:50:22.526Z",
+        "size": 183,
+        "formattedSize": "183 Bytes"
+      }
+    },
     {
       "id": "src__welcome",
       "contents": "<p>Hello!</p>\n<p>I’m excited to be finally begin sharing content out with the world. I have had a strong interest in personal finance and investing and want to share the knowledge that I’ve gained along the way.</p>\n<p>Working as a designer and software developer, I have a passion about coming into this space to create content and resources for people that is approachable and accessible. Good design goes far beyond something being “pretty”. As I tackle new design problems, reducing resistance for a user as they utilize a tool or digest content can greatly improve how they actually implement that information into their everyday life.</p>\n<p>Personal finance, budgeting, credit cards, investing, and more – I hope that you enjoy the upcoming videos and posts, and I would love to hear about any specific topics you would like to hear more about!</p>\n<p>I’ll keep this intro short, but I look forward to hearing your thoughts. See you soon!</p>\n<p>– Seth</p>\n",
