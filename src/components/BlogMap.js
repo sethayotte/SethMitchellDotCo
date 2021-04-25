@@ -6,6 +6,9 @@ import { Badge } from "shards-react";
 const ListItem = ({ item }) => {
   return (
     <div id="listItemContainer">
+      <div>
+        <img src={item.thumbnail} alt="Post Thumbnail" />
+      </div>
       <h2>{item.title}</h2>
       <div>
         <h4>

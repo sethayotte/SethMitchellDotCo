@@ -3,7 +3,7 @@ import allPosts from "../allPosts.json";
 import Markdown from "react-markdown";
 import { Badge } from "shards-react";
 
-import { BlogPost } from "./BlogLogic";
+import { BlogPost } from "./BlogMap";
 
 const Blog = () => {
   useEffect(() => {

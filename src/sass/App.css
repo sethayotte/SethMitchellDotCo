@@ -473,6 +473,10 @@ a:hover {
   display: flex;
 }
 
+html {
+  margin-bottom: 100px;
+}
+
 .navBar {
   border-radius: 0px 0px 15px 15px;
   background-color: #f3f3f3;
@@ -510,6 +514,7 @@ a:hover {
   left: 0;
   bottom: 0;
   right: 0;
+  margin-top: 75px;
   background-color: #f3f3f3;
   border-radius: 15px 15px 0px 0px;
 }

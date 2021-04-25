@@ -1,5 +1,6 @@
 import React from "react";
 import { Badge } from "shards-react";
+import { HomePostCard } from "./HomePostMap";
 
 const Home = () => {
   return (
@@ -42,15 +43,7 @@ const Home = () => {
       </div>
       <div id="recentPostsContainer">
         <h3>Recent Posts</h3>
-        <div className="recentPostCards">
-          <h4 className="cardArticleTitle">How To Start Investing</h4>
-          <p className="cardArticleExcerpt">
-            Achieving a healthier financial standing doesn't start with sporadic
-            spending and ignoring each item on your statement as you pay it
-            month to month. By building and following…
-          </p>
-          <p className="cardReadMore">Read More</p>
-        </div>
+        <HomePostCard />
       </div>
     </div>
   );
