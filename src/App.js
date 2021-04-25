@@ -24,6 +24,7 @@ import Contact from "./components/Contact";
 import Blog from "./components/Blog";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
+import Splash from "./components/Splash";
 import CompoundInterestCalculator from "./components/Calc-Resource-Components/CompoundInterestCalculator";
 import PersonalFinance from "./components/Blog-Topics/PersonalFinance";
 import Budgeting from "./components/Blog-Topics/Budgeting";
@@ -71,8 +72,8 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        {/* <Splash /> */}
-        <Router>
+        <Splash />
+        {/* <Router>
           <Navbar expand="md" className="navBar">
             <NavbarBrand href="/" className="navBrand">
               sethmitchell<span className="navBrandDot">dot</span>co
@@ -174,7 +175,7 @@ export default class App extends React.Component {
               <Home />
             </Route>
           </Switch>
-        </Router>
+        </Router> */}
         <Footer />
       </div>
     );
