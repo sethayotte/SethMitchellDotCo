@@ -1,8 +1,18 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Badge } from "shards-react";
 import { HomePostCard } from "./HomePostMap";
 
 const Home = () => {
+  useEffect(() => {
+    fetch(
+      "https://api.github.com/repos/sethayotte/SethMitchellDotCo/contents/posts/src/building-your-first-budget.md"
+    )
+      .then((res) => res.json())
+      .then((data) => {
+        console.log(data);
+      });
+  }, []);
+
   return (
     <div id="landingPage">
       <div id="landingHeader">
@@ -42,7 +52,8 @@ const Home = () => {
         </div>
       </div>
       <div id="recentPostsContainer">
-        <h3>Recent Posts</h3>
+        <h3 id="recentPostsHeading">Recent Posts</h3>
+
         <HomePostCard />
       </div>
     </div>
