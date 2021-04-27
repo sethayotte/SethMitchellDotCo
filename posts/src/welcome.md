@@ -8,6 +8,7 @@ summary: I’m excited to be finally begin sharing content out with the world. I
   the knowledge that I’ve gained along the way.
 thumbnail: /images/circle-cropped.png
 ---
+
 Hello!
 
 I’m excited to be finally begin sharing content out with the world. I have had a strong interest in personal finance and investing and want to share the knowledge that I’ve gained along the way.

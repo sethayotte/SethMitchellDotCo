@@ -3,13 +3,10 @@ title: Building Your First Budget
 author: Seth Mitchell
 date: 2021-04-25T14:56:37.130Z
 category: Budgeting
-summary: Achieving a healthier financial standing doesn't start with sporadic
-  spending and ignoring each item on your statement as you pay it month to
-  month. By building and following a budget, you are able to be the one in
-  control and have a strong understanding of what goes in and out of your pocket
-  every month.
+summary: Achieving a healthier financial standing doesn't start with crazy spending and ignoring each item on your statement as you pay it month to month. By building and following a budget, you are able to be the one in control and have a strong understanding of what goes in and out of your pocket every month.
 thumbnail: /images/northfolk-ok76f6yw2ia-unsplash.jpg
 ---
+
 Achieving a healthier financial standing doesn't start with sporadic spending and ignoring each item on your statement as you pay it month to month. By building and following a budget, you are able to be the one in control and have a strong understanding of what goes in and out of your pocket every month.
 
 Having an understanding of the different components to a budget as well as following some helpful organizational tips can set you up to make meaningful strides to getting rid of debts. These steps will set up a solid foundation to prepare for life *before* and after retirement.
@@ -32,7 +29,7 @@ There are 4 main categories that you should consider: housing, food, transportat
 
 ### What Does 'Essential' Mean?
 
-We need to be realistic about what we say we *need* to spend money on. If your monthly estimated food expenses are north of $450 for a single person, daily trips to Starbucks as you head into work might have to be reevaluated. A mode of personal transportation is necessary who doesn't live in a city that has a robust public transit system. That being said, a lease on a brand new car may not be in line with your income. I'll be going more into detail about cars and how to calculate what you can afford in another post - but for now, it's important to be pragmatic and remember that our goal is to *save* money.
+We need to be realistic about what we say we _need_ to spend money on. If your monthly estimated food expenses are north of $450 for a single person, daily trips to Starbucks as you head into work might have to be reevaluated. A mode of personal transportation is necessary who doesn't live in a city that has a robust public transit system. That being said, a lease on a brand new car may not be in line with your income. I'll be going more into detail about cars and how to calculate what you can afford in another post - but for now, it's important to be pragmatic and remember that our goal is to _save_ money.
 
 ### Cutting Costs
 
@@ -42,7 +39,7 @@ There are number of areas that are typical culprits for high, unnecessary spendi
 
 We've already brought this up, but it is very common that this is an out-of-control category for most people. Constantly going out for coffee in the morning, out for lunch, and late night drinks at the bar - will easily suck up all of your hard earned money and will put your future-self in a compromised position.
 
-*Tip:* Focus on bringing more of your meals 'in-house'. Grocery shopping and cooking/prepping meals at home is significantly cheaper that eating out. While a single lunch may be $12, you can likely prep that same meal at home for $2-3.
+_Tip:_ Focus on bringing more of your meals 'in-house'. Grocery shopping and cooking/prepping meals at home is significantly cheaper that eating out. While a single lunch may be $12, you can likely prep that same meal at home for $2-3.
 
 This doesn't mean you should never go out to restaurants or bars. It can be a nice treat for yourself and a social event in meeting with friends, but it's important to realize the inflated costs and to try to make most of your meals at home.
 
@@ -50,13 +47,13 @@ This doesn't mean you should never go out to restaurants or bars. It can be a ni
 
 I also mentioned this one above, but driving around a fancy car that you can't afford will only lead to stress and less money in your pocket down the road. I'm not just referring to luxury brands - 'reasonable' brands like Honda and Toyota can average around $30,000 for a decently spec'd sedan or crossover. $30k at a 3% interest rate for a 5 year loan is ~$540/month. That is a lot of your money getting used up, especially for something that is constantly depreciating in value.
 
-*Tip:* Buying the same model you were looking at on the lot, but as a used car 2-3 years old will allow someone else to take on the initial hit of depreciation to the car giving you a significant discount for a slightly used vehicle.
+_Tip:_ Buying the same model you were looking at on the lot, but as a used car 2-3 years old will allow someone else to take on the initial hit of depreciation to the car giving you a significant discount for a slightly used vehicle.
 
 Maintenance is also something that can be a big financial burden as a car gets older. Keep this in mind while picking out a car. The big brands like Honda, Toyota, and Hyundai have a great record of reliability compared to the luxury European competitors.
 
 **Housing**
 
-This one can be a bit more difficult to cut down on depending on your area and what is available at the moment. If you are in a situation where you have a spare room or are in a larger place that you don't *need*, either renting out that spare room or moving into a more appropriately-sized apartment/home can give you a few extra hundred dollars in your pocket a month
+This one can be a bit more difficult to cut down on depending on your area and what is available at the moment. If you are in a situation where you have a spare room or are in a larger place that you don't _need_, either renting out that spare room or moving into a more appropriately-sized apartment/home can give you a few extra hundred dollars in your pocket a month
 
 **Subscriptions**
 
@@ -72,9 +69,9 @@ In this scenario, let's say my monthly income after tax is $2,850. With my new a
 
 There are a few questions that we need to ask ourselves to move forward with how to apply this money:
 
-* Do I have outstanding, high-interest debt? If yes, apply all that you can of your remaining money to pay this down.
-* No debts? Do I have a proper emergency fund? Not sure? Check out my post - What's an Emergency Fund? If you don't, it's best if you put this money directly into a savings account.
-* No debts? Have an emergency fund? Now it's time to invest for retirement.
+- Do I have outstanding, high-interest debt? If yes, apply all that you can of your remaining money to pay this down.
+- No debts? Do I have a proper emergency fund? Not sure? Check out my post - What's an Emergency Fund? If you don't, it's best if you put this money directly into a savings account.
+- No debts? Have an emergency fund? Now it's time to invest for retirement.
 
 It is good to create a number that you must save every month. Treat this amount just as you would a bill. For my budget, I will choose to save $500 of my $605 into my emergency fund. I am getting close to reaching my 6-month mark and will plan to switch to retirement investments next.
 
@@ -88,7 +85,7 @@ Track, track, track! Like a diet, a budget is only as effective as the person fo
 
 There are several apps out there that help with tracking your expenses and breaking down the different categories. I will be writing a post on a few of these options, stay tuned! Alternatively, you can always use a simple spreadsheet or pen & paper. Any method to ensure that you stay on top of every penny that goes in and out is all that counts.
 
-*Tip:* Set up recurring monthly/bi-monthly reminders in your phone to keep up with your budget. If it is more helpful, get your friend or partner to be the friendly reminder to check in on yourself. Finding someone that is also creating and following a budget can create mutual accountability.
+_Tip:_ Set up recurring monthly/bi-monthly reminders in your phone to keep up with your budget. If it is more helpful, get your friend or partner to be the friendly reminder to check in on yourself. Finding someone that is also creating and following a budget can create mutual accountability.
 
 ### Wrapping Up
 

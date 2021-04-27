@@ -3,12 +3,13 @@ title: What's an Emergency Fund?
 author: Seth Mitchell
 date: 2021-04-25T14:52:04.679Z
 category: Personal Finance
-summary: Having a sufficient emergency fund is an essential first step for
-  financial security - and it should not be ignored. 2020 was a prime example of
+summary:
+  Having a sufficient emergency fund is an essential first step for financial security - and it should not be ignored. 2020 was a prime example of
   how a bizarre circumstance can pop up when we least expect it and have a
   drastic impact on our lives.
 thumbnail: /images/stephen-phillips-hostreviews-co-uk-em37ks8wjjq-unsplash.jpg
 ---
+
 Having a sufficient emergency fund is an essential first step for financial security - and it should not be ignored. 2020 was a prime example of how a bizarre circumstance can pop up when we least expect it and have a drastic impact on our lives. I recently heard the statistic from the Federal Reserve:
 
 > 40% of Americans cannot afford to cover a $400 emergency expense
@@ -31,15 +32,15 @@ Why 3-6 months? While there can be one-off car or medical emergencies that can b
 
 For example, let's say the following items are your monthly recurring expenses:
 
-* Rent: $1,200
-* Utilities: $125
-* Food: $300
-* Car & Gas: $250
-* Phone: $75
+- Rent: $1,200
+- Utilities: $125
+- Food: $300
+- Car & Gas: $250
+- Phone: $75
 
-With each of these expenses, our total for recurring *necessary* expenses is $1,950. By "necessary", I mean no frivolous spending like going out to a bar or shopping online. These expenses are what you have to pay to survive.
+With each of these expenses, our total for recurring _necessary_ expenses is $1,950. By "necessary", I mean no frivolous spending like going out to a bar or shopping online. These expenses are what you have to pay to survive.
 
-A 3-6 month emergency fund for mandatory monthly expenses of $1,950 would be $5,850 - $11,700. Looking at this number head on, it can definitely be intimidating. It can also take quite a while to achieve. It may be helpful to break it up into smaller chunks. To start, focus on saving just *one* month of expenses. It will definitely feel good and will motivate you to keep going.
+A 3-6 month emergency fund for mandatory monthly expenses of $1,950 would be $5,850 - $11,700. Looking at this number head on, it can definitely be intimidating. It can also take quite a while to achieve. It may be helpful to break it up into smaller chunks. To start, focus on saving just _one_ month of expenses. It will definitely feel good and will motivate you to keep going.
 
 ### Getting 3 Months of Expenses Saved
 

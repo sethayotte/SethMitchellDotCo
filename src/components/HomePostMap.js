@@ -14,11 +14,9 @@ const HomeCardLayout = ({ item }) => {
 };
 
 const HomePostCard = () => {
-  const posts = allPosts.data;
-
   return (
     <div id="cardRowOne">
-      {posts.map((item, id) => (
+      {allPosts.map((item, id) => (
         <HomeCardLayout key={id} item={item} />
       ))}
     </div>
