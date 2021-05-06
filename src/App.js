@@ -18,13 +18,13 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 // import Splash from "./components/Splash";
 
-import About from "./components/About";
-import Resources from "./components/Resources";
-import Contact from "./components/Contact";
-import Blog from "./components/Blog";
-import Home from "./components/Home";
-import Footer from "./components/Footer";
-import Splash from "./components/Splash";
+import About from "./components/Pages/About";
+import Resources from "./components/Pages/Resources";
+import Contact from "./components/Pages/Contact";
+import Blog from "./components/Pages/Blog";
+import Home from "./components/Pages/Home";
+import Footer from "./components/Pages/Footer";
+import Splash from "./components/Pages/Splash";
 import CompoundInterestCalculator from "./components/Calc-Resource-Components/CompoundInterestCalculator";
 import PersonalFinance from "./components/Blog-Topics/PersonalFinance";
 import Budgeting from "./components/Blog-Topics/Budgeting";

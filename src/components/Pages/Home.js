@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Badge } from "shards-react";
 
 const Home = () => {
+  // useEffect(() => {
+  //   getPosts();
+  // });
   return (
     <div id="landingPage">
       <div id="landingHeader">

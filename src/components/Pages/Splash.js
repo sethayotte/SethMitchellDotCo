@@ -1,6 +1,6 @@
 import React from "react";
 
-import SMLogo from "../assets/SMdC.svg";
+import SMLogo from "../../assets/SMdC.svg";
 
 const Splash = () => {
   return (

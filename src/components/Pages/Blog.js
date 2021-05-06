@@ -1,19 +1,9 @@
 import React from "react";
-import allPosts from "../allPosts.json";
+import allPosts from "../../allPosts.json";
 
 import { Badge } from "shards-react";
 
 const Blog = () => {
-  const fetchedPost = {};
-
-  allPosts.data.forEach((post) => {
-    fetchedPost.title = post.title;
-    fetchedPost.author = post.author;
-    fetchedPost.date = post.date;
-    fetchedPost.category = post.category;
-    fetchedPost.content = post.contents;
-    console.log(fetchedPost);
-  });
   return (
     <div id="allPostsPage">
       <h1 id="allPostsHeader">All Posts</h1>
