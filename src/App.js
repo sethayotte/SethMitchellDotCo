@@ -72,8 +72,8 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        <Splash />
-        {/* <Router>
+        {/* <Splash /> */}
+        <Router>
           <Navbar expand="md" className="navBar">
             <NavbarBrand href="/" className="navBrand">
               sethmitchell<span className="navBrandDot">dot</span>co
@@ -175,7 +175,7 @@ export default class App extends React.Component {
               <Home />
             </Route>
           </Switch>
-        </Router> */}
+        </Router>
         <Footer />
       </div>
     );
